@@ -29,7 +29,7 @@ print(geek4.funcao4())
 """
 
 from python.pi import funcao1
-from python.python.geek4 import funcao4
+from python.python.func4 import funcao4
 
 print(funcao1(6, 9))
 
